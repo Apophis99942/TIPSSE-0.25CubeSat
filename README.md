@@ -27,8 +27,16 @@ System Structure
 - COMM
   - LoRa
 - Payload
-  -  
+  -  Tri-Axis Gyroscope
+  -  Tri-Axis Accelerometer
+  -  Tri-Axis Magnetometer
+  -  GPS
+  -  Camera
+  -  Barometer
+  -  Temperature
 - STR (TBD)
+  - Parachute drop (TBD)
+  - Antenna deployment (TBD)
 
 ### 工程版
 #### Version 1

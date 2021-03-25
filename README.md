@@ -9,7 +9,7 @@ TIPSSE 是由學生團隊成立，創立於 2021 年 2 月 21 日
 
 
 ## 0.25U CubeSat Introduction
-常見的CubeSat都以10*10*10cm 為一單位(Unit)，本研究案採用1/4 Unit為一顆衛星之大小。
+常見的CubeSat都以10x10x10cm 為一單位(Unit)，本研究案採用1/4 Unit為一顆衛星之大小。
 正常衛星上的次系統，本顆衛星上皆有，舉凡，電力(EPS), 資料處理(CDH), 通訊(COMM), 姿態感測與控制(ADCS), 推進(Thrust), 結構(STR), 酬載(Payload)，
 
 本計畫有相同大小，但根據用途不同而產生多種版本

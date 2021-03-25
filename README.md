@@ -23,7 +23,8 @@ TIPSSE 是由學生團隊成立，創立於 2021 年 2 月 21 日
 System Structure
 - EPS
 - CDH
-  - CPU: STM32  
+  - CPU: STM32L
+  - Development Enviroment:   
 - COMM
   - LoRa
 - Payload
@@ -44,6 +45,10 @@ System Structure
 - EPS (TBD)
 - CDH (TBD)
   - CPU: smartfusion 2
+  - Development Environment: Libreo 
+      - need 45GB for the files, and pretty hard to install
+      - Free license need to bind the "Mac Address". But the Libreo wouldn't detect all interface Mac address, while I use the iphone network shared to my computer.    It will detect the wrong interface. All I have to do is disconnect the network to pass the license verification...... Damn it...
 - COMM (TBD)
 - Payload (TBD)
+- STR (TBD)
 - ADCS (TBD)

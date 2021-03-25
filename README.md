@@ -1,4 +1,5 @@
-# TIPSSE-0.25CubeSat 中華民國 行星科學系統工程學會 0.25U CubeSat研究案
+# TIPSSE 中華民國 行星科學系統工程學會 
+# 0.25U CubeSat研究案
 
 ## Introdction
 TIPSSE 是由學生團隊成立，創立於 2021 年 2 月 21 日
@@ -19,3 +20,22 @@ TIPSSE 是由學生團隊成立，創立於 2021 年 2 月 21 日
 
 ### 教育版
 #### Version 1
+System Structure
+- EPS
+- CDH
+  - CPU: STM32  
+- COMM
+  - LoRa
+- Payload
+  -  
+- STR (TBD)
+
+### 工程版
+#### Version 1
+System Structure
+- EPS (TBD)
+- CDH (TBD)
+  - CPU: smartfusion 2
+- COMM (TBD)
+- Payload (TBD)
+- ADCS (TBD)

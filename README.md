@@ -47,8 +47,8 @@ System Structure
   - CPU: smartfusion 2
   - Development Environment: Libreo 
       - need 45GB for the files, and pretty hard to install
-      - Free license need to bind the "Mac Address". But the Libreo wouldn't detect all interface Mac address, while I use the iphone network shared to my computer.    It will detect the wrong interface. All I have to do is disconnect the network to pass the license verification...... Damn it...
-      - And executes all the commands must need requires license verification. So I need to keep connecting and disconnecting from the Internet. This is the hardest development environment that I had ever install.
+        - Free license need to bind the "Mac Address". But the Libreo wouldn't detect all interface Mac address, while I use the iphone network shared to my computer.    It will detect the wrong interface. All I have to do is disconnect the network to pass the license verification...... Damn it...
+        - And executes all the commands must need requires license verification. So I need to keep connecting and disconnecting from the Internet. This is the hardest development environment that I had ever install.
 - COMM (TBD)
 - Payload (TBD)
 - STR (TBD)

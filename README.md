@@ -24,7 +24,7 @@ System Structure
 - EPS
 - CDH
   - CPU: STM32L
-  - Development Enviroment:   
+  - Development Enviroment: 文字編輯＋GCC  
 - COMM
   - LoRa
 - Payload
